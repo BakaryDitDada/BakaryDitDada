@@ -1,7 +1,7 @@
 ![Head](https://th.bing.com/th/id/R.e7244a8c2d4385ccbe6e7cf8436433c3?rik=CRcH2VwhFqUUcw&riu=http%3a%2f%2fwww.cirencommunications.com%2fwp-content%2fuploads%2f2015%2f10%2fInside-Banner-Animated.gif&ehk=hoocLzehfla%2fTjkB1CAdfNgpRa9fQUJSfx8MtP5xazE%3d&risl=&pid=ImgRaw&r=0)
 
 <h1 align="center">Hi 👋, I'm Bakary dit Dada DRAME</h1>
-<h3 align="center">A passionate Full-Stack Developer from Africa</h3>
+<h3 align="center">An enthusiastic Full-Stack Web Developer and lifelong learner from Africa</h3>
 
 <img align="right" alt="Coding image" width="400" src="https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=5KtkovoZ%2fyTimw&pid=ImgRaw&r=0">
 
